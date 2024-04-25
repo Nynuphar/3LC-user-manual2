@@ -18,7 +18,6 @@ The first step is to add the administrative data for the patient, such as:
 Once this is filled in, please proceed by clicking "Save and add Cons".
 
 .. note:: Use the intial of each name in uppercase, with "-" as separator between the First name initial/s and Last name initial/s. Examples: Georgios Kyriakos Panayiotou -> GK-P, Rosa Dolores Alverío Marcano -> RD-AM. When family names include particles are treated as a further Family name: e.g.Charles De Gaulle -> C-DG, Miguel De Oliveira -> M-DO
-How to enter initials into the New system:
 
 .. tip:: When selecting the date of birth, if you click on the "Month", a month view appears. If you further click on the year, a year view appears. This will help you navigating through time and selecting the right date of birth.
 
